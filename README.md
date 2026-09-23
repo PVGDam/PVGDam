@@ -1,4 +1,5 @@
-[!fondo.jpeg]
+![Descripción de la imagen](fondo.jpeg)
+
 
 <!--
 **PVGDam/PVGDam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
