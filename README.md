@@ -1,4 +1,4 @@
-![Descripción de la imagen](fondo.jpeg)
+<img src="fondo.jpeg" alt="Descripción de la imagen" width="600">
 
 
 <!--
